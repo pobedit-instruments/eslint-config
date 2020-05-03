@@ -40,6 +40,17 @@ Add @pobedit/eslint-config to the extends section of your .eslintrc configuratio
 Feel free to submit a pull request if you find any bugs. 
 Please make sure all commits are properly documented.
 
+## Tests
+
+```
+npm test
+```
+
+## Publishing
+
+```
+npm publish --access public --verbose
+```
 
 ## License
 
