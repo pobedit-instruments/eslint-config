@@ -1,0 +1,20 @@
+{
+    "name": "@pobedit/eslint-config",
+    "version": "0.0.1",
+    "description": "React specific linting rules for ESLint",
+    "author": "Alexander Abashkin <monolithed@gmail.com>",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:pobedit-instruments/eslint-config.git"
+    },
+    "dependencies": {
+        "eslint": "6.8.0",
+        "eslint-plugin-import": "2.20.2",
+        "eslint-plugin-jsx-a11y": "6.2.3",
+        "eslint-plugin-react": "7.19.0",
+        "eslint-plugin-react-hooks": "4.0.0",
+        "@typescript-eslint/eslint-plugin": "2.30.0",
+        "@typescript-eslint/parser": "2.30.0"
+    }
+}
