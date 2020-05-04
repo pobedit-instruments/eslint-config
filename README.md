@@ -24,8 +24,6 @@ yarn add @pobedit/eslint-config
 
 Add @pobedit/eslint-config to the extends section of your .eslintrc configuration file:
 
-**package.json**:
-
 ```json
 {
   "extends": [
